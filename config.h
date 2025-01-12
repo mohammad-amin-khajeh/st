@@ -9,7 +9,6 @@ static char *font = "caskaydiaCove NF:pixelsize=16:antialias=true:autohint=true:
 #if FONT2_PATCH
 /* Spare fonts */
 static char *font2[] = {
-// "caskaydiaCove NF:pixelsize=16:antialias=true:autohint=true",
 "joyPixels:pixelsize=16:antialias=true:autohint=true",
 "FontAwesome:pixelsize=16:antialias=true:autohint=true",
 "Noto Sans CJK JP:pixelsize=16:style=regular:antialias=true:autohint=true",
